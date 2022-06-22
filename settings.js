@@ -10,7 +10,7 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6285700980048']
+global.owner = ['6285779150501']
 global.premium = ['62895700121662']
 global.ownernomer = '6285700980048'
 global.ownername = 'IndraXF'
